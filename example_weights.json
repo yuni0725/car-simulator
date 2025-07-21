@@ -1,0 +1,27 @@
+{
+  "example.layer.weight": {
+    "shape": [
+      2,
+      3
+    ],
+    "values": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6
+    ],
+    "dtype": "float32"
+  },
+  "example.layer.bias": {
+    "shape": [
+      2
+    ],
+    "values": [
+      0.01,
+      -0.01
+    ],
+    "dtype": "float32"
+  }
+}
